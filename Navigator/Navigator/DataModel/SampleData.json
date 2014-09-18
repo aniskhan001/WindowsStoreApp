@@ -1,15 +1,15 @@
 {"Groups":[
   {
     "UniqueId": "Group-1",
-    "Title": "Group Title: 1",
-    "Subtitle": "Group subtitle: 1",
+    "Title": "Group 1: Fruits",
+    "Subtitle": "Friuts are delicious and healthy!",
     "ImagePath": "Assets/DarkGray.png",
     "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
     "Items":
     [
       {
         "UniqueId": "Group-1-Item-1",
-        "Title": "Item Title: 1",
+        "Title": "Item 1: Mango",
         "Subtitle": "Item Subtitle: 1",
         "ImagePath": "Assets/LightGray.png",
         "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
@@ -17,7 +17,7 @@
       },
       {
         "UniqueId": "Group-1-Item-2",
-        "Title": "Item Title: 2",
+        "Title": "Item 2: Orange",
         "Subtitle": "Item Subtitle: 2",
         "ImagePath": "Assets/DarkGray.png",
         "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
@@ -25,7 +25,7 @@
       },
       {
         "UniqueId": "Group-1-Item-3",
-        "Title": "Item Title: 3",
+        "Title": "Item 3: Apple",
         "Subtitle": "Item Subtitle: 3",
         "ImagePath": "Assets/MediumGray.png",
         "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
@@ -33,7 +33,7 @@
       },
       {
         "UniqueId": "Group-1-Item-4",
-        "Title": "Item Title: 4",
+        "Title": "Item 4: Banana",
         "Subtitle": "Item Subtitle: 4",
         "ImagePath": "Assets/DarkGray.png",
         "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
@@ -41,7 +41,7 @@
       },
       {
         "UniqueId": "Group-1-Item-5",
-        "Title": "Item Title: 5",
+        "Title": "Item 5: Guava",
         "Subtitle": "Item Subtitle: 5",
         "ImagePath": "Assets/MediumGray.png",
         "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
