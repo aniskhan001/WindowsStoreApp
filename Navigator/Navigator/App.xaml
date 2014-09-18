@@ -1,0 +1,13 @@
+﻿<Application
+    x:Class="Navigator.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Navigator"
+    xmlns:localData="using:Navigator.Data">
+
+    <Application.Resources>
+
+        <!-- Application-specific resources -->
+        <x:String x:Key="AppName">Navigator</x:String>
+    </Application.Resources>
+</Application>
